@@ -23,16 +23,7 @@ A modern **cyber-themed responsive landing page** featuring a fixed navigation b
 
 ---
 
-## 📂 Project Structure
 
-```
-PRODIGY_WD_01/
-│── index.html
-│── README.md
-│── LICENSE
-```
-
----
 
 ## ▶️ How to Run the Project
 
