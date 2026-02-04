@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-# Cyber-Style Responsive Landing Page
+# Responsive Landing Page
 
 A modern **cyber-themed responsive landing page** featuring a fixed navigation bar, neon UI design, smooth scroll-based effects, and mobile-friendly layout built using **HTML, CSS, and JavaScript**.
 
